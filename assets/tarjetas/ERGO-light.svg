@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="479" height="189" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="28" cy="32" r="5" fill="#bc8cff"/>
+<text x="40" y="37" font-size="12" letter-spacing="1" fill="#59636e">MODELADO</text>
+<rect x="389" y="18" width="71" height="24" rx="12" fill="none" stroke="#59636e"/><text x="424" y="35" font-size="12" text-anchor="middle" fill="#59636e">Privado</text>
+<text x="24" y="76" font-size="20" font-weight="700" fill="#1f2328">ERGO</text>
+<text x="24" y="104" font-size="14" fill="#59636e">Trata el estudio como una economía: precio en horas por</text>
+<text x="24" y="124" font-size="14" fill="#59636e">asignatura, ajustado con cada nota real.</text>
+<text x="24" y="172" font-size="12" fill="#59636e">Python  ·  TypeScript</text>
+</svg>
