@@ -2,7 +2,7 @@
 <rect x="0.5" y="0.5" width="479" height="189" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="28" cy="32" r="5" fill="#3fb950"/>
 <text x="40" y="37" font-size="12" letter-spacing="1" fill="#59636e">SIMULACIÓN</text>
-<rect x="389" y="18" width="71" height="24" rx="12" fill="none" stroke="#59636e"/><text x="424" y="35" font-size="12" text-anchor="middle" fill="#59636e">Privado</text>
+<rect x="354" y="18" width="106" height="24" rx="12" fill="none" stroke="#59636e"/><text x="407" y="35" font-size="12" text-anchor="middle" fill="#59636e">Próximamente</text>
 <text x="24" y="76" font-size="20" font-weight="700" fill="#1f2328">Acondicionamiento de señal</text>
 <text x="24" y="104" font-size="14" fill="#59636e">Dos circuitos para sensores con op-amps LM741: cálculo a</text>
 <text x="24" y="124" font-size="14" fill="#59636e">mano, Bode y simulación en OrCAD/PSpice.</text>
