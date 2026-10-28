@@ -19,10 +19,17 @@
 
 ### Cómo trabajo
 
-- **Primero el modelo.** Ecuaciones y cálculo a mano antes que código; el código va después, para comprobar y para iterar.
-- **Simular y contrastar.** Cada simulación se compara con el cálculo: si no cuadran, el que está mal es uno de los dos.
-- **Gemelos digitales.** Si algo existe en el mundo físico, su descripción vive en un repo y se puede reconstruir desde cero.
-- **IA local y datos propios.** Prefiero gestionar mi información a depender de la nube.
+- **Mido antes de opinar.** Primero datos o pruebas; las decisiones salen de ahí. Cada simulación se contrasta con el cálculo: si no cuadran, uno de los dos está mal.
+- **Todo reproducible.** Cualquier resultado se puede rehacer desde el repo: datos, código y versiones.
+- **Documento el porqué.** Cada decisión queda escrita con su motivo, para quien venga después (yo incluido).
+- **Del dato al modelo.** Me interesa el recorrido completo: recoger el dato, limpiarlo, guardarlo bien y convertirlo en un modelo que explique o prediga.
+
+### Qué me interesa
+
+- **Gemelos digitales y modelos basados en datos.** Objetos físicos con un modelo vivo que se actualiza con medidas reales.
+- **Elementos finitos.** Lo que más me atrae ahora mismo. Estoy empezando y quiero llegar a combinarlo con gemelos digitales.
+- **Modelado estadístico y físico-matemático.** Incertidumbre, regresión, EDOs y simulación numérica: la base de todo lo anterior.
+- **Datos a escala.** Aprender a manejar grandes volúmenes (series temporales, sensores) sin perder la trazabilidad.
 
 ### Herramientas
 
@@ -40,4 +47,4 @@
 
 ---
 
-<p align="center"><i>Prefiero la profundidad que dura a la superficie que caduca.</i></p>
+<p align="center"><i>Si se puede medir, se puede modelar; si se puede modelar, se puede mejorar.</i></p>
