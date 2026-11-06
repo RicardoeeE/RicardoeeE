@@ -10,18 +10,17 @@
 ### Proyectos
 
 <p align="center">
-<a href="https://ricardoeee.github.io/Modelo-laboratorio-electronica/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/Modelo-laboratorio-electronica-dark.svg"><img src="assets/tarjetas/Modelo-laboratorio-electronica-light.svg" alt="Lab Virtual de Electrónica: Osciloscopio, fuente, generador y protoboard simulados sobre equipos reales. 11 experimentos con medidas automáticas." width="49%"></picture></a> <a href="https://github.com/RicardoeeE/calculus-daily"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/calculus-daily-dark.svg"><img src="assets/tarjetas/calculus-daily-light.svg" alt="Calculus Daily: Práctica diaria de cálculo sin conexión: repaso espaciado FSRS, corrección simbólica con SymPy y ventana con fórmulas KaTeX. 172 fichas de derivadas, integrales, parciales y EDOs." width="49%"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/Arcade-dark.svg"><img src="assets/tarjetas/Arcade-light.svg" alt="Arcade bartop · gemelo digital: Mueble arcade de 2 jugadores sobre Raspberry Pi: el sistema se reconstruye entero desde el repo, con gestor de juegos propio en Python." width="49%"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/electronica-circuitos-dark.svg"><img src="assets/tarjetas/electronica-circuitos-light.svg" alt="Acondicionamiento de señal: Dos circuitos para sensores con op-amps LM741: cálculo a mano, Bode y simulación en OrCAD/PSpice." width="49%"></picture>
+<a href="https://ricardoeee.github.io/Modelo-laboratorio-electronica/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/Modelo-laboratorio-electronica-dark.svg"><img src="assets/tarjetas/Modelo-laboratorio-electronica-light.svg" alt="Lab Virtual de Electrónica: Osciloscopio, fuente, generador y protoboard simulados sobre equipos reales. 11 experimentos con medidas automáticas." width="49%"></picture></a> <a href="https://github.com/RicardoeeE/calculus-daily"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/calculus-daily-dark.svg"><img src="assets/tarjetas/calculus-daily-light.svg" alt="Calculus Daily: Práctica diaria de cálculo sin conexión: repaso espaciado FSRS, corrección con SymPy y 172 fichas de derivadas, integrales, parciales y EDOs." width="49%"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tarjetas/math-plotter-dark.svg"><img src="assets/tarjetas/math-plotter-light.svg" alt="math-plotter: EDO con RK4 y eventos, raíces por bisección y Newton, integración de Gauss-Legendre y exportación de resultados." width="49%"></picture>
 </p>
 
-<sub>Los marcados como privados o «próximamente» los voy abriendo según quedan listos y documentados.</sub>
+<sub>Lo marcado como «próximamente» lo abro cuando está listo y documentado.</sub>
 
 ### Cómo trabajo
 
-- **Mido antes de opinar.** Primero datos o pruebas; las decisiones salen de ahí. Cada simulación se contrasta con el cálculo: si no cuadran, uno de los dos está mal.
-- **Todo reproducible.** Cualquier resultado se puede rehacer desde el repo: datos, código y versiones.
-- **Documento el porqué.** Cada decisión queda escrita con su motivo, para quien venga después (yo incluido).
+- **Mido antes de opinar.** Primero datos o pruebas; las decisiones salen de ahí. Contrasto las simulaciones con el cálculo: si no cuadran, uno de los dos está mal. Lo que aún no está contrastado, lo digo.
+- **Reproducible como objetivo.** Lo que publico debe poder rehacerse desde el repo: datos, código y versiones.
+- **Documento el porqué.** Las decisiones importantes quedan escritas con su motivo, para quien venga después (yo incluido).
 - **Del dato al modelo.** Me interesa el recorrido completo: recoger el dato, limpiarlo, guardarlo bien y convertirlo en un modelo que explique o prediga.
 
 ### Qué me interesa
