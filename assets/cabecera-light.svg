@@ -7,11 +7,10 @@
 <text x="46" y="146" font-size="16" fill="#59636e">Uso la programación como herramienta de ingeniería.</text>
 <rect x="46" y="176" width="100" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="96" y="195" font-size="13" text-anchor="middle" fill="#1f2328">Simulación</text>
 <rect x="154.0" y="176" width="144" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="226" y="195" font-size="13" text-anchor="middle" fill="#1f2328">Cálculo numérico</text>
-<rect x="306.4" y="176" width="152" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="382" y="195" font-size="13" text-anchor="middle" fill="#1f2328">Gemelos digitales</text>
-<rect x="466.2" y="176" width="85" height="28" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="509" y="195" font-size="13" text-anchor="middle" fill="#1f2328">Hardware</text>
 <rect x="640" y="60" width="100" height="120" rx="10" fill="#ffffff" stroke="#d0d7de"/>
-<text x="690" y="122" font-size="30" font-weight="700" text-anchor="middle" fill="#1f2328">37</text>
-<text x="690" y="148" font-size="10" letter-spacing="1" text-anchor="middle" fill="#59636e">PROYECTOS</text>
+<text x="690" y="122" font-size="30" font-weight="700" text-anchor="middle" fill="#1f2328">3</text>
+<text x="690" y="148" font-size="10" letter-spacing="1" text-anchor="middle" fill="#59636e">REPOS</text>
+<text x="690" y="161" font-size="10" letter-spacing="1" text-anchor="middle" fill="#59636e">PÚBLICOS</text>
 <rect x="752" y="60" width="100" height="120" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <text x="802" y="122" font-size="30" font-weight="700" text-anchor="middle" fill="#1f2328">2</text>
 <text x="802" y="148" font-size="10" letter-spacing="1" text-anchor="middle" fill="#59636e">ÁREAS</text>
